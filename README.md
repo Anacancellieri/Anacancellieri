@@ -35,11 +35,5 @@
 
 ---
 
-## 📫 Onde me encontrar:
-[![LinkedIn](www.linkedin.com/in/ana-caroline-cancellieri-742b602b8)
-[![Gmail](anacarolinecancellieri@gmail.com)
-
----
-
 [![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](anacarolinecancellieri@gmail.com)
 
