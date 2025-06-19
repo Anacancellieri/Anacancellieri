@@ -2,7 +2,7 @@
 
 <p align="center">
   🌱 Estudante apaixonada por desenvolvimento web e Python<br>
-  🚀 Buscando oportunidades como Desenvolvedora Front-End, Full Stack, Desenvolvedora Python<br>
+  🚀 Buscando oportunidades como Desenvolvedora Front-End, Full Stack, ou Desenvolvedora Python<br>
   💬 Vamos conversar: <a href="mailto:anacarolinecancellieri@gmail.com">anacarolinecancellieri@gmail.com</a>
 </p>
 
